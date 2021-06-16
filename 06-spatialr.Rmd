@@ -1,0 +1,1 @@
+# **<span style="color:#003300;">Espacial LGCP en R</span>** {#spatialr}
