@@ -1,0 +1,6 @@
+intro
+objetivos
+hotspots
+hotspotsr
+spatial
+spatialr
